@@ -1,0 +1,14 @@
+.filterInput{
+    width: 300px;
+    font-size: 15px;
+    margin-left: 20px;
+    padding: 5px;
+    border-color: #FFB366;
+    border-radius: 10px;
+}
+
+.filterInput:hover {
+    background-color: #FFB366;
+    color: #FFFFFF;
+    box-shadow: 5px 5px 15px 5px #FF9933;
+}

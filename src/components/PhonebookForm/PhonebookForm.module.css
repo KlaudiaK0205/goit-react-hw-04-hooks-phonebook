@@ -1,0 +1,34 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    justify-content: center;
+    margin-bottom: 30px;
+    }
+
+.formInput{
+    width: 200px;
+    font-size: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-color: #FFB366;
+    border-radius: 10px;
+}
+
+.formBtn{
+    width: 180px;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #FFB366;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    }
+
+.formBtn:hover {
+    background-color: #FFB366;
+    color: #FFFFFF;
+    box-shadow: 5px 5px 15px 5px #FF9933;
+}
